@@ -16,6 +16,8 @@ Skills:
 - 🌱 I’m currently learning Hyper-Casual and 2D Arcade game dev. with Unity 
 - 🤔 I’m looking for help with 2D Sprites and 3D modelling and animations. 
 - 📫 How to reach me: olcaycft95@gmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/olcaycft/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://discordapp.com/users/718749020897542145/">Discord</a>  
 
 ## 📷 Social Media
 
