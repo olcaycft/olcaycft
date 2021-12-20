@@ -10,7 +10,7 @@ Skills:
 ![Csharp](https://i.ibb.co/fQHDQRp/Background.png)
 ![Unity](https://i.ibb.co/qCnfWw9/Background-1.png)
 
-(+ In the Future C / Unreal Engine)
+(+ In the Future C++ / Unreal Engine)
 
 - 🔭 I’m currently working on Unity 2D and 3D game development. 
 - 🌱 I’m currently learning Hyper-Casual and 2D Arcade game dev. with Unity 
