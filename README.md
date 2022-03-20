@@ -1,6 +1,6 @@
 ### Heeey! 👋, Olcay ÇİFTÇİ from İzmir / Turkey
 #### Software Engineer
-#### Game Dev. Candidate  :)
+#### Game Dev. :)
 ![I'm Game Dev. Candidate and Software Engineer :)](https://pbs.twimg.com/profile_banners/2186375573/1587090652/600x200)
 
 I'm Olcay from Turkey, Nowadays I'm working on game development. I really enjoy learning new things for game development. My goal is become a part of a AAA game company.
