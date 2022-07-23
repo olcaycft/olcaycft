@@ -13,7 +13,7 @@ Skills:
 (+ In the Future C++ / Unreal Engine)
 
 - 🔭 I’m currently working on Unity 2D and 3D game development. 
-- 🌱 I’m currently working on Hyper-Casual, Incremental idle, idle and hiper genre with Unity 
+- 🌱 I’m currently working on Casual, Hyper-Casual, Incremental idle, idle and hiper genre with Unity 
 - 📫 How to reach me: olcaycft95@gmail.com
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/olcaycft/">LinkedIn</a>
 - 📫 How to reach me: <a href="https://discordapp.com/users/718749020897542145/">Discord</a>  
